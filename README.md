@@ -6,7 +6,7 @@ Guemil makes available a graphic tool for diverse stages and platforms of inform
 
 Guemil permite disponer de una herramienta gráfica para diversas etapas y plataformas de información (antes → durante → después). Los iconos son recursos simples y útiles para el diseño de comunicación y la investigación aplicada.
 
-We tested Guemil v10 so we could keep improving this project | Pusimos a prueba Guemil v10 para poder seguir mejorardo:
+We tested Guemil v10 so we could keep on improving | Pusimos a prueba Guemil v10 para poder seguir mejorardo:
 
 - https://test.guemil.info/meaning-v10/
 
