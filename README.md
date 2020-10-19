@@ -6,7 +6,7 @@ Guemil makes available a graphic tool for diverse stages and platforms of inform
 
 Guemil permite disponer de una herramienta gráfica para diversas etapas y plataformas de información (antes → durante → después). Los iconos son recursos simples y útiles para el diseño de comunicación y la investigación aplicada.
 
-We tested Guemil v10 so we could keep on improving | Pusimos a prueba Guemil v10 para poder seguir mejorando:
+We tested Guemil v10 so we could keep on improving. The results were the following | Pusimos a prueba Guemil v10 para poder seguir mejorando. Los resultados fueron los siguientes:
 
 - https://test.guemil.info/meaning-v10/
 
@@ -22,11 +22,9 @@ We tested Guemil v10 so we could keep on improving | Pusimos a prueba Guemil v10
 
 - - - - - - - - - 
 
-### Creative Commons License | Licencia Creative Commons
+#### Guemil Icons for Emergency by [Rodrigo Ramírez](https://www.guemil.info/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Guemil Icons for Emergency is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
-
-**This means that you are free to:**
+**You are free to:**
 
 - **Share** — copy and redistribute the material in any medium or format
 
@@ -40,7 +38,7 @@ The licensor cannot revoke these freedoms as long as you follow **the license te
 
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-Guemil Íconos para la Emergencia utiliza licencia de <a rel="Licencia" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a>.
+#### Guemil, desarrollado por [Rodrigo Ramírez](https://www.guemil.info/), se distribuye bajo una [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
 
 **Usted es libre de:**
 
@@ -58,7 +56,7 @@ El licenciante no puede revocar estas libertades en tanto usted siga **los térm
 
 - - - - - - - - - 
 
-**Questions, comments? | Preguntas, comentarios?**
+#### Questions, comments? | Preguntas, comentarios?
 
 **Email**: guemilproject@gmail.com
 
@@ -67,4 +65,3 @@ Website: http://www.guemil.info/
 Instagram: [@Guemil_Icons](https://www.instagram.com/Guemil_Icons/)
 
 Twitter: [@Guemil_Icons](https://twitter.com/Guemil_Icons)
-
